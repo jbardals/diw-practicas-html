@@ -61,8 +61,11 @@ Cada vez que retomes tu trabajo asegúrate tener la última versión de las espe
 ## Para entregar la tarea
 
 En la carpeta **tarefa** debes crear una carpeta para cada ejercicio de la tarea.
-
-El repo debe contener una carpeta nombrada como `doc`. [Sigue las instrucciones](doc/README.md) de cómo documentar.
+En la carpeta de cada ejercicio deberás entregar todos los ficheros necesarios para ese ejercicio y 
+organizados de la siguiente manera:
+* Guarda las imágenes en una carpeta `img/` (se recomienda formatos menos pesados como PNG)
+* Guarda las hojas de estilo en en una carpeta `css/`
+* Guarda los ficheros de javascript en en una carpeta `js/`
 
 
 ### Etiqueta tu versión
