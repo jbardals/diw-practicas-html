@@ -1,0 +1,36 @@
+/*css*/
+header{
+    background-color: rgb(77, 74, 74);
+    margin:10px;
+    border: 2px solid red;
+}
+nav{
+    background-color: rgb(117, 112, 112);
+    margin:10px;
+    border: 2px solid red;
+}
+section{
+    background-color: rgb(117, 112, 112);
+    margin:10px;
+    border: 2px solid red;
+    float:left;
+    width:70%;
+}
+article{
+    background-color: rgb(77, 74, 74);
+    margin:20px;
+    border: 2px solid red;
+}
+aside{
+    background-color: rgb(77, 74, 74);
+    margin:10px;
+    border: 2px solid red;
+    float:left;
+    width:25%;
+}
+footer{
+    background-color: rgb(77, 74, 74);
+    margin:10px;
+    border: 2px solid red;
+    clear: left;
+}
