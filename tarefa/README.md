@@ -12,7 +12,7 @@
 
 ### Haz un fork del repositorio original
 
-Haz un fork del repositorio original y **configúralo de forma privada** (la actividad propuesta es individual ;)
+Haz un fork del repositorio original
 Habilita las issues y **otorga permisos de escritura al profesor** en tu repo.  (se te indicará el usuario)
 
 
@@ -36,7 +36,7 @@ La evolución de tu solución final deberá estar apuntada por esta rama. Puedes
 
 
 
-## Revisa periódicamente si se han producido actualizaciones en las especificaciones.
+## Revisa periódicamente si se han producido actualizaciones en remoto
 
 Cada vez que retomes tu trabajo asegúrate tener la última versión de las especificaciones. Para ello:
 
@@ -58,11 +58,12 @@ Cada vez que retomes tu trabajo asegúrate tener la última versión de las espe
     git merge profesor/master
 ```
 
-## Documenta tu trabajo
+## Para entregar la tarea
+
+En la carpeta **tarefa** debes crear una carpeta para cada ejercicio de la tarea.
 
 El repo debe contener una carpeta nombrada como `doc`. [Sigue las instrucciones](doc/README.md) de cómo documentar.
 
-## Cuándo termines tu trabajo... o eso crees...
 
 ### Etiqueta tu versión
 

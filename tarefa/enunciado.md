@@ -1,5 +1,5 @@
 ﻿
-## Horario de clases
+## Ej1. Horario de clases  (**2 pts**)
 
 Crea  un documento ****HTML****que muestre  tu horario de clase. 
 
@@ -10,7 +10,7 @@ Crea  un documento ****HTML****que muestre  tu horario de clase.
 _Opcional_: añadir estilos para hacerla visualmente más agradable.
 
 
-## LINKS E IMAXES
+## Ej2. LINKS E IMAXES  (**3 pts**)
 
 a) Crear a seguinte páxina web:
 
@@ -60,7 +60,7 @@ d) Que é un bookmark. Describe un exemplo de aplicación.
 
 
 
-## Web dunha pizzería 
+## Ej3. Web dunha pizzería (**3 pts**)
 
 ### Estrutura semántica
 
@@ -76,10 +76,11 @@ d) Que é un bookmark. Describe un exemplo de aplicación.
 	 - Descrición dos ingredientes que leva a pizza correspondente
  - A pé de páxina aparecerá o nome da pizzería e a dirección. 
  
-Os contidos deben estar estruturados para que teñan sentido semántico.
+Os contidos deben estar estruturados para que teñan sentido semántico. 
+Fai uso dos estilos mínimos (ver exemplo de ![Enunciado de la Tarea](estructura_secciones_html) para poder visualizar a estrutura do documento.
 
 
-## Formulario HTML5
+## Ej4. Formulario HTML5
 
 Implementa en un fichero html el código fuente para el siguinte formulario con HTML 5 haciendo uso de los [HTML5 input types](https://www.w3schools.com/html/html_form_input_types.asp) oportunos.
 
