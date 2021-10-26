@@ -77,15 +77,7 @@ git tag <etiqueta>
 git tag -a <etiqueta> -m 'El mensaje'
 ```
 
-Si quieres poner una etiqueta a un commit anterior, pon su checksum al final de las instrucciones anteriores.
 
-Recuerda enviar tus tags a tus repos remotos de la siguiente manera:
-
-```
-git push <remoto> <tag>
-```
-
-Consulta esta [fuente](https://git-scm.com/book/es/v2/Fundamentos-de-Git-Etiquetado) para más detalles.
 
 ## Estrategia de ramificación
 
@@ -106,62 +98,3 @@ Tag				| Descripción
 ------------ 	| -------------
 `enum-v1`		| Enunciado inicial
 
-
-### Snapshot actual del enunciado en `master`:
-
-```Shell
-.
-├── README.md
-├── doc
-│   ├── Demos.md
-│   ├── README.md
-│   ├── Work.md
-│   ├── demo-lidia.gif
-│   ├── demo-luis.gif
-│   ├── demo-profesor.gif
-│   └── nuestrasJavaConventions.xml
-├── pom.xml
-└── src
-    ├── main
-    │   ├── java
-    │   │   └── edu
-    │   │       └── xunta
-    │   │           └── agrasar
-    │   │               └── buscaminas
-    │   │                   ├── modelo
-    │   │                   │   ├── Buscaminas.java
-    │   │                   │   ├── Factoria.java
-    │   │                   │   ├── NivelJuego.java
-    │   │                   │   └── ReglaBuscaminasException.java
-    │   │                   └── vista
-    │   │                       ├── App.java
-    │   │                       └── VentanaBuscaminas.java
-    │   └── resources
-    │       └── edu
-    │           └── xunta
-    │               └── agrasar
-    │                   └── buscaminas
-    │                       └── vista
-    │                           ├── 1.png
-    │                           ├── 2.png
-    │                           ├── 3.png
-    │                           ├── 4.png
-    │                           ├── 5.png
-    │                           ├── Flag_64.png
-    │                           ├── f_Normal_64.png
-    │                           ├── f_Ohh_64.png
-    │                           ├── f_Smiley_64.png
-    │                           ├── f_unhappy_64.png
-    │                           ├── minaRota_64.png
-    │                           └── mina_64.png
-    └── test
-        └── java
-            └── edu
-                └── xunta
-                    └── agrasar
-                        └── buscaminas
-                            └── modelo
-                                └── BuscaminasTest.java
-
-23 directories, 28 files
-```
