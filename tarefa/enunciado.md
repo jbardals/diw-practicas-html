@@ -77,12 +77,12 @@ d) Que é un bookmark. Describe un exemplo de aplicación.
  - A pé de páxina aparecerá o nome da pizzería e a dirección. 
  
 Os contidos deben estar estruturados para que teñan sentido semántico. 
-Fai uso dos estilos mínimos (ver exemplo de ![Enunciado de la Tarea](estructura_secciones_html) para poder visualizar a estrutura do documento.
+Fai uso duns estilos mínimos (ver exemplo de ![Enunciado de la Tarea](estructura_secciones_html) para poder visualizar a estrutura do documento.
 
 
-## Ej4. Formulario HTML5
+## Ej4. Formulario HTML5  (**2 pts**)
 
-Implementa en un fichero html el código fuente para el siguinte formulario con HTML 5 haciendo uso de los [HTML5 input types](https://www.w3schools.com/html/html_form_input_types.asp) oportunos.
+Implementa nun ficheiro html o código fuente para o seguinte formulario con HTML 5 facendo uso dos [HTML5 input types](https://www.w3schools.com/html/html_form_input_types.asp) oportunos.
 
 ![Captura_do_centolo](../imgs/centollo.png)
 
