@@ -72,12 +72,11 @@ d) Que é un bookmark. Describe un exemplo de aplicación.
  -- “Inicio”
  -- “Fai o teu pedido” (que enlace á páxina pedido.html que veremos)
  - Nesta páxina de inicio verase información sobre as distintas especialidades de pizza. A información de cada especialidade será:
- --Título co nome de cada pizza
- -- Descrición dos ingredientes que leva a pizza correspondente
+	 - Título co nome de cada pizza
+	 - Descrición dos ingredientes que leva a pizza correspondente
  - A pé de páxina aparecerá o nome da pizzería e a dirección. 
  
 Os contidos deben estar estruturados para que teñan sentido semántico.
-
 
 
 Podes usar a seguinte aplicación para comprobar que o código HTML é válido: [https://validator.w3.org/](https://validator.w3.org/)
