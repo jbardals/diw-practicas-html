@@ -17,6 +17,7 @@
 
 
 **Ejercicio 3:** Utilizar el método GET en un formulario para realizar una búsqueda en _Google_ con la siguiente apariencia:
+
 ![Captura_do_formulario](imgs/form_get.gif)
 
 
