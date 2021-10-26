@@ -45,26 +45,24 @@ Añadir a la página dos párrafos. En el primero agregar varios saltos de líne
 4.  TÍTULOS <H1 – H6>
     
 
-Crear una página que contenga un título de primer nivel <h1> y dos títulos de segundo nivel <h2>. Definir un párrafo para cada título de segundo nivel.
+Crear una página que contenga un título de primer nivel y dos títulos de segundo nivel. 
+Definir un párrafo para cada título de segundo nivel.
 
-  
 
-  
 
-5.  HIPERVÍNCULO A OTRA PÁGINA DEL MISMO SITIO <A>
+5.  HIPERVÍNCULO A OTRA PÁGINA DEL MISMO SITIO
     
 
 Crear una página principal que tenga un hipervínculo a otra página secundaria. La página secundaria debe tener también un hipervínculo a la página principal.
 
   
-  
 
-6.  IMÁGENES DENTRO DE UNA PÁGINA <IMG>
+6.  IMÁGENES DENTRO DE UNA PÁGINA
     
 
 Crear una página que muestre una imagen llamada foto.jpg que se encuentra en el mismo servidor y en la misma carpeta donde se localiza el archivo HTML.
 
-  
+
   
 
 7.  LISTAS ORDENADAS <OL>
