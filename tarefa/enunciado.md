@@ -79,6 +79,13 @@ d) Que é un bookmark. Describe un exemplo de aplicación.
 Os contidos deben estar estruturados para que teñan sentido semántico.
 
 
+## Formulario HTML5
+
+Implementa en un fichero html el código fuente para el siguinte formulario con HTML 5 haciendo uso de los [HTML5 input types](https://www.w3schools.com/html/html_form_input_types.asp) oportunos.
+
+![Captura_do_centolo](../imgs/centollo.png)
+
+
 Podes usar a seguinte aplicación para comprobar que o código HTML é válido: [https://validator.w3.org/](https://validator.w3.org/)
 
 
