@@ -73,8 +73,9 @@ organizados de la siguiente manera:
 Cuando tengas un revisión de tu código que consideres estable, etiquétala de la siguiente forma:
 
 # Ejemplo
+```
 git tag html-v1.0-pacoPerez
-
+```
 
 html-v1.x-nombreApellido1 donde x representa un número secuencial en cada incremento
 
