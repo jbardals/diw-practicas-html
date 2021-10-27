@@ -81,8 +81,9 @@ git tag <etiqueta>
 git tag -a <etiqueta> -m 'El mensaje'
 ```
 ### Envía tus tags a tus repos remotos:
+```
 git push <remoto> <tag>
-
+```
 
 ## Estrategia de ramificación
 
