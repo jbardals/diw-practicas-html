@@ -85,7 +85,7 @@ git tag -a <etiqueta> -m 'El mensaje'
 git push <remoto> <tag>
 ```
 
-## RamasEstrategia de ramificación
+## Ramas
 
 Rama					| Uso
 ------------ 			| -------------
