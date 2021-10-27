@@ -72,7 +72,6 @@ organizados de la siguiente manera:
 
 Cuando tengas un revisión de tu código que consideres estable, etiquétala de la siguiente forma:
 
-# Ejemplo
 ```
 git tag html-v1.0-pacoPerez
 ```
@@ -82,7 +81,7 @@ git tag html-v1.0-pacoPerez
 Puedes hacer etiquetado de tu último commit de la siguiente manera:
 
 ```
-# Si quieres hacer una etiqueta ligera (solo nombrar un commit
+# Si quieres hacer una etiqueta ligera (solo nombrar un commit)
 git tag <etiqueta>
 
 # Si quieres hacer una etiqueta que contenga más información
