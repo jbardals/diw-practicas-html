@@ -85,23 +85,12 @@ git tag -a <etiqueta> -m 'El mensaje'
 git push <remoto> <tag>
 ```
 
-## Estrategia de ramificación
+## RamasEstrategia de ramificación
 
 Rama					| Uso
 ------------ 			| -------------
-`master`	 			| Evolución del enunciado del ejercicio para implementar el juego (enfoque desarrollo con TDD. Contiene tests implementados)
-`test-adicionales`      | Partiendo de la rama `master`, se implementan unos test adicionales para aumentar la cobertura del código y probar ciertos aspectos que pudieron obviarse en los primeros tests.
-`solucionX`			| Rama que representa una solución (puede derivar de master u otra rama). Tiene implementado tanto el programa como los test unitarios.
+`main`	 			| Contenidos suministrados por el profesor
 `remote\usuario` 	| Evolución de la solución de cada alumno
-`remote\teamA..B..C`| Evolución de la solución de cada equipo 
 
-
-### Changelog de enunciado:
-
-Se irán etiquetando enunciados consolidados y entregados a alumnos. Se dará una explicación general de cada cambio :
-
-Tag				| Descripción
------------- 	| -------------
-`enum-v1`		| Enunciado inicial
 
 ![Enunciado de la Tarea](enunciado.md)
