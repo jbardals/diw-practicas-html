@@ -25,14 +25,14 @@ git clone <url de tu fork>
 
 ### Crea tu rama (personal) de trabajo o *release branch*
 
-Crea tu propia rama de trabajo! Crea esta nueva rama de trabajo a partir de `master`
+Crea tu propia rama de trabajo! Crea esta nueva rama de trabajo a partir de `main`
 
 ```bash
 # Habitualmente tomará el formato rb-nombreApellido
-git checkout -b <usuario>
+git checkout -b <rb-usuario>
 ```
 
-La evolución de tu solución final deberá estar apuntada por esta rama. Puedes utilizar todas las ramas que quieras, pero **no trabajes en la master** y asegúrate, si tienes otras ramas que forman parte de tu solución, de combinarlas (*git merge*) con tu rama con el nombre de tu usuario.
+La evolución de tu solución final deberá estar apuntada por esta rama. Puedes utilizar todas las ramas que quieras, pero **no trabajes en la main** y asegúrate, si tienes otras ramas que forman parte de tu solución, de combinarlas (*git merge*) con tu rama con el nombre de tu usuario.
 
 
 
@@ -46,7 +46,7 @@ Cada vez que retomes tu trabajo asegúrate tener la última versión de las espe
 
 2. (**Cada vez que retomes trabajo**) Revisa novedades y obtenlas del repo del profesor
 
-    `git fetch profesor master`
+    `git fetch profesor main`
 
 3. (**Cada vez que haya novedades**) Mezcla estas novedades con tu *release branch*. Si has seguido las indicaciones de este README no deberían producirse conflictos. Si se produjesen adviértelo al profesor.
 
@@ -55,7 +55,7 @@ Cada vez que retomes tu trabajo asegúrate tener la última versión de las espe
     git checkout rb-usuario
     
     # Después mézclate en tu rama actual las novedades
-    git merge profesor/master
+    git merge profesor/main
 ```
 
 ## Para entregar la tarea
@@ -70,7 +70,14 @@ organizados de la siguiente manera:
 
 ### Etiqueta tu versión
 
-Cuando tengas un revisión de tu código que consideres estable, etiquétala de la forma que te indique el [mecanismo de versionado](doc/README.md). Modifica tambien el [changelog](doc/changelog.md) indicando las novedades de la versión.
+Cuando tengas un revisión de tu código que consideres estable, etiquétala de la siguiente forma:
+
+# Ejemplo
+git tag html-v1.0-pacoPerez
+
+
+html-v1.x-nombreApellido1 donde x representa un número secuencial en cada incremento
+
 Puedes hacer etiquetado de tu último commit de la siguiente manera:
 
 ```
@@ -78,7 +85,7 @@ Puedes hacer etiquetado de tu último commit de la siguiente manera:
 git tag <etiqueta>
 
 # Si quieres hacer una etiqueta que contenga más información
-git tag -a <etiqueta> -m 'El mensaje'
+git tag -a <etiqueta> -m 'El mensaje que quieras'
 ```
 ### Envía tus tags a tus repos remotos:
 ```
