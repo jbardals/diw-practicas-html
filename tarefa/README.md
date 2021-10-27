@@ -29,7 +29,7 @@ Crea tu propia rama de trabajo! Crea esta nueva rama de trabajo a partir de `mas
 
 ```bash
 # Habitualmente tomará el formato rb-nombreApellido
-git checkout -b <rb-usuario>
+git checkout -b <usuario>
 ```
 
 La evolución de tu solución final deberá estar apuntada por esta rama. Puedes utilizar todas las ramas que quieras, pero **no trabajes en la master** y asegúrate, si tienes otras ramas que forman parte de tu solución, de combinarlas (*git merge*) con tu rama con el nombre de tu usuario.
