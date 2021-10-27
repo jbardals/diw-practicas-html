@@ -13,7 +13,7 @@
 ### Haz un fork del repositorio original
 
 Haz un fork del repositorio original
-Habilita las issues y **otorga permisos de escritura al profesor** en tu repo.  (se te indicará el usuario)
+Habilita las issues y **otorga permisos de escritura al profesor** (usuario **bardal**) en tu repo.
 
 
 ### Clona el repositorio
