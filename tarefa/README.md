@@ -77,7 +77,7 @@ Cuando tengas un revisión de tu código que consideres estable, etiquétala de 
 git tag html-v1.0-pacoPerez
 ```
 
-html-v1.x-nombreApellido1 donde x representa un número secuencial en cada incremento
+* html-v1.x-nombreApellido1 donde x representa un número secuencial en cada incremento
 
 Puedes hacer etiquetado de tu último commit de la siguiente manera:
 
