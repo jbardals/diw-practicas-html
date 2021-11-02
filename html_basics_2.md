@@ -5,26 +5,8 @@
 1.  MARCADO BÁSICO DE TEXTO
     
 Determinar el código HTML correspondiente a la siguiente página:
+
 ![texto](../imgs/basic_21.gif)
-
-SOLUCION
-´´´
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
-
-<head>
-<title>El primer documento HTML</title>
-</head>
-
-<body>
-<p>El lenguaje HTML es <strong>tan sencillo</strong> que practicamente se entiende sin estudiar el significado de sus etiquetas principales.</p>
-
-<p>Ademas de textos en <strong>negrita</strong>, tambien se pueden poner <em>en cursiva</em> o <del>tachados</del>.</p>
-</body>
-
-</html>
-´´´
-
 
 
 2.  MARCADO DE TEXTO
@@ -38,8 +20,8 @@ Son Nghiem, investigador del JPL ha declarado que:
 
 
 para que el navegador lo muestre con el aspecto de la siguiente imagen:
+
 ![texto](../imgs/basic_22.gif)
-  
 
 
 3.  Dado el texto con la estructura:
@@ -54,7 +36,8 @@ Saturno           9,449           29,46 años           52
 Urano             4,007           84,01 años           27
 Neptuno           3,883          164,80 años           13
     escribe el códiho HTML para darle el formato:
-    ![texto](../imgs/basic_22.gif)
+	
+    ![texto](../imgs/basic_23.gif)
 
 
 
