@@ -12,6 +12,7 @@ Determinar el código HTML correspondiente a la siguiente página:
 2.  MARCADO DE TEXTO
     
 Estructurar y marcar el siguiente texto:
+
 *El Ártico ha perdido el 14% de su hielo marino perenne en un solo año
 WASHINGTON.- El hielo perenne del Ártico  se redujo en un 14% durante el último año, al perder 720.000 kilómetros cuadrados, una superficie superior a la Península Ibérica, según datos de la NASA.
 Según el JPL, la pérdida del hielo perenne, que debiera mantenerse durante todo el verano, fue todavía mayor y se acercó a un 50% en el momento en que ese hielo se desplazaba desde el Ártico  oriental hacia el oeste.
@@ -25,6 +26,7 @@ para que el navegador lo muestre con el aspecto de la siguiente imagen:
 
 
 3.  Dado el texto con la estructura:
+
 Nombre      Diametro relativo   Período orbital   Número de lunas
 -----------------------------------------------------------------
 Mercurio          0,382            0,24 años            0
