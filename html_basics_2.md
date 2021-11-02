@@ -37,7 +37,7 @@ Urano             4,007           84,01 años           27
 Neptuno           3,883          164,80 años           13
     escribe el códiho HTML para darle el formato:
 	
-    ![texto](../imgs/basic_23.gif)
+![texto](../imgs/basic_23.gif)
 
 
 
