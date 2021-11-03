@@ -54,14 +54,15 @@ Neptuno           3,883          164,80 años           13
  
 
 
-5.  Determinar el código HTML que corresponde a la siguiente lista anidada compleja
+4.  Determinar el código HTML que corresponde a la siguiente lista anidada compleja
 
  ![texto](../imgs/lista_anidada.gif)
 
 
-
-7. Determinar el código HTML necesario para crear la tabla que se muestra en la siguiente imagen. Utilizar las celdas de cabecera donde sea necesario y añadir todos los atributos posibles.
+5. Determinar el código HTML necesario para crear la tabla que se muestra en la siguiente imagen. Utilizar las celdas de cabecera donde sea necesario y añadir todos los atributos posibles.
 
 ![texto](../imgs/tabla_imgs.gif)
+
+Las imágenes del sitio las tienes [aquí](imgs/imgs_ejerc5)
 
 
