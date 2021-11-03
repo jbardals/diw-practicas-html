@@ -77,7 +77,7 @@ d) Que é un bookmark. Describe un exemplo de aplicación.
  - A pé de páxina aparecerá o nome da pizzería e a dirección. 
  
 Os contidos deben estar estruturados para que teñan sentido semántico. 
-Fai uso duns estilos mínimos (ver exemplo de ![Enunciado de la Tarea](estructura_secciones_html) para poder visualizar a estrutura do documento.
+Fai uso duns estilos mínimos (ver exemplo de ![estructura_secciones](estructura_secciones_html) para poder visualizar a estrutura do documento.
 
 
 ## Ej4. Formulario HTML5  (**2 pts**)
