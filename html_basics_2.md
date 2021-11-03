@@ -23,12 +23,15 @@ Son Nghiem, investigador del JPL ha declarado que:
 para que el navegador lo muestre con el aspecto de la siguiente imagen:
 
 ![texto](../imgs/basic_22.gif)
+  
 
 
 3.  Dado el texto con la estructura:
 
+
 Nombre      Diametro relativo   Período orbital   Número de lunas
 -----------------------------------------------------------------
+
 Mercurio          0,382            0,24 años            0
 
 Venus             0,949            0,62 años            0
@@ -44,57 +47,21 @@ Saturno           9,449           29,46 años           52
 Urano             4,007           84,01 años           27
 
 Neptuno           3,883          164,80 años           13
+
     escribe el códiho HTML para darle el formato:
 	
-![texto](../imgs/basic_23.gif)
+    ![texto](../imgs/basic_22.gif)
+ 
+
+
+5.  Determinar el código HTML que corresponde a la siguiente lista anidada compleja
+
+ ![texto](../imgs/lista_anidada.gif)
 
 
 
-  
-  
+7. Determinar el código HTML necesario para crear la tabla que se muestra en la siguiente imagen. Utilizar las celdas de cabecera donde sea necesario y añadir todos los atributos posibles.
 
-4.  TÍTULOS <H1 – H6>
-    
-
-Crear una página que contenga un título de primer nivel y dos títulos de segundo nivel. 
-Definir un párrafo para cada título de segundo nivel.
+![texto](../imgs/tabla_imgs.gif)
 
 
-
-5.  HIPERVÍNCULO A OTRA PÁGINA DEL MISMO SITIO
-    
-
-Crear una página principal que tenga un hipervínculo a otra página secundaria. La página secundaria debe tener también un hipervínculo a la página principal.
-
-  
-
-6.  IMÁGENES DENTRO DE UNA PÁGINA
-    
-
-Crear una página que muestre una imagen llamada foto.jpg que se encuentra en el mismo servidor y en la misma carpeta donde se localiza el archivo HTML.
-
-
-  
-
-7.  LISTAS ORDENADAS <OL>
-    
-
-Mostrar el orden de llegada de tres corredores mediante el uso de una lista ordenada.
-
-  
-  
-
-8.  LISTAS NO ORDENADAS <UL>
-    
-
-Crear una lista no ordenada con cuatro lenguajes de programación. Agregar un título de segundo nivel indicando el concepto de esta lista.
-
-  
-  
-
-9.  TABLAS <TABLE>
-    
-
-Confeccionar una tabla que muestre los nombre de países en una columna y su cantidad de habitantes en otra. Disponer un título de los datos que representa la tabla.
-
-Podes facer uso de exemplos e código do sitio [https://www.w3schools.com/](https://www.w3schools.com/)
