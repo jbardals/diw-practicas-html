@@ -50,7 +50,7 @@ Neptuno           3,883          164,80 años           13
 
     escribe el códiho HTML para darle el formato:
 	
-    ![texto](../imgs/basic_22.gif)
+![texto](../imgs/basic_23.gif)
  
 
 
